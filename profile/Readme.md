@@ -13,13 +13,7 @@
     <a href='#tiempos-verbales'>Tiempos Verbales</a>
   </li>
   <li>
-    <a href='#recursos-de-conjugacion'>Recursos de Conjugación</a>
-  </li>
-  <li>
     <a href='#conceptos-gramaticales'>Conceptos Gramaticales</a>
-  </li>
-  <li>
-    <a href='#practica-y-ejercicios'>Práctica y Ejercicios</a>
   </li>
   <li>
     <a href='#contacto'>Contacto</a>
