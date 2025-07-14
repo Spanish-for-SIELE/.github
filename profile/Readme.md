@@ -47,21 +47,9 @@
     </p>
   </li>
   <li>
-    <h3>Recursos de Conjugación</h3>
-    <p>
-      Conjugaciones regulares e irregulares, además de listas completas de verbos irregulares y su uso en distintos tiempos.
-    </p>
-  </li>
-  <li>
     <h3>Conceptos Gramaticales</h3>
     <p>
       Explicaciones sobre la voz pasiva, mandatos afirmativos y negativos, uso de pronombres, oraciones condicionales y otros puntos clave.
-    </p>
-  </li>
-  <li>
-    <h3>Práctica y Ejercicios</h3>
-    <p>
-      Ejercicios de conjugación, pruebas de gramática y temas para practicar escritura y conversación.
     </p>
   </li>
 </ol>
@@ -75,13 +63,6 @@
   <li><a href="https://github.com/Spanish-for-SIELE/Perfect-Tenses">Tiempos Perfectos</a></li>
   <li><a href="https://github.com/Spanish-for-SIELE/Progressive-Tenses">Tiempos Progresivos</a></li>
   <li><a href="https://github.com/Spanish-for-SIELE/Subjunctive">Subjuntivo</a></li>
-</ul>
-
-<h2 id="recursos-de-conjugacion">Recursos de Conjugación</h2>
-<ul>
-  <li><a href="ENLACE_A_REPOSITORIO_CONJUGACIONES">Conjugaciones Regulares e Irregulares</a></li>
-  <li><a href="ENLACE_A_REPOSITORIO_VERBOS_IRREGULARES">Lista de Verbos Irregulares</a></li>
-  <li><a href="ENLACE_A_REPOSITORIO_IMPERATIVO">Formas del Imperativo</a></li>
 </ul>
 
 <h2 id="conceptos-gramaticales">Conceptos Gramaticales</h2>
