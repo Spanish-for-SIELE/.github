@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/tu-perfil-linkedin/">
     <img src="https://github.com/garrettbovo/garrettbovo/assets/154717520/b7afe3a0-edb2-4cea-8b47-e687daa11c87" title="Ve a mi LinkedIn" alt="Imagen de encabezado GitHub">
 </a>
-<p><h3><a href="https://github.com/tu-usuario">Enlace a mi GitHub: <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" title="Ve a mi página principal de GitHub" alt="GitHub" height="30"></a></h3></p>
+<p><h3><a href="https://github.com/garrettbovo">Enlace a mi GitHub: <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" title="Ve a mi página principal de GitHub" alt="GitHub" height="30"></a></h3></p>
 
 <details>
 <summary>Tabla de Contenidos</summary>
@@ -95,6 +95,6 @@
 <p>📫 Puedes escribirme a: egarrett021@gmail.com</p>
 
 <p>
-  <a href="https://github.com/tu-usuario"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"></a>
-  <a href="https://www.linkedin.com/in/tu-perfil-linkedin/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"></a>
+  <a href="https://github.com/garrettbovo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"></a>
+  <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"></a>
 </p>
