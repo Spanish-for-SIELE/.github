@@ -16,6 +16,9 @@
     <a href='#conceptos-gramaticales'>Conceptos Gramaticales</a>
   </li>
   <li>
+    <a href='#vocabulario'>Vocabulario</a>
+  </li>
+  <li>
     <a href='#contacto'>Contacto</a>
   </li>
 </ol>
@@ -63,6 +66,11 @@
 <ul>
   <li><a href="https://github.com/Spanish-for-SIELE/Passive-Voice">Voz Pasiva</a></li>
   <li><a href="https://github.com/Spanish-for-SIELE/Commands">Mandatos</a></li>
+</ul>
+
+<h2 id="vocabulario">Vocabulario</h2>
+<ul>
+  <li><a href="https://github.com/Spanish-for-SIELE/Connectors">Conectores</a></li>
 </ul>
 
 <h2 id="contacto">Contacto</h2>
