@@ -1,6 +1,7 @@
 <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/">
-    <img src="https://github.com/garrettbovo/garrettbovo/assets/154717520/b7afe3a0-edb2-4cea-8b47-e687daa11c87" title="Ve a mi LinkedIn" alt="Imagen de encabezado GitHub">
+    <img src="https://github.com/user-attachments/assets/fde7d737-7b61-4756-a235-e83e3346d617" title="Ve a mi LinkedIn" alt="Imagen de encabezado GitHub">
 </a>
+
 <p><h3><a href="https://github.com/garrettbovo">Enlace a mi GitHub: <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" title="Ve a mi página principal de GitHub" alt="GitHub" height="30"></a></h3></p>
 
 <details>
